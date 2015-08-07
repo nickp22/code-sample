@@ -1,0 +1,2612 @@
+/* ==========================================================================
+    Custom Components
+   ========================================================================== */
+/* line 1379, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/_variables.scss */
+.margin-sml {
+  margin-top: 10px !important;
+  margin-bottom: 10px !important;
+}
+
+/* line 1380, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/_variables.scss */
+.margin-med {
+  margin-top: 20px !important;
+  margin-bottom: 20px !important;
+}
+
+/* line 1381, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/_variables.scss */
+.margin-lrg {
+  margin-top: 30px !important;
+  margin-bottom: 30px !important;
+}
+
+/* line 1382, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/_variables.scss */
+.margin-xl {
+  margin-top: 40px !important;
+  margin-bottom: 40px !important;
+}
+
+/* line 1383, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/_variables.scss */
+.margin-xxl {
+  margin-top: 50px !important;
+  margin-bottom: 50px !important;
+}
+
+/* line 1384, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/_variables.scss */
+.padding-sml {
+  padding-top: 10px !important;
+  padding-bottom: 10px !important;
+}
+
+/* line 1385, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/_variables.scss */
+.padding-med {
+  padding-top: 20px !important;
+  padding-bottom: 20px !important;
+}
+
+/* line 1386, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/_variables.scss */
+.padding-lrg {
+  padding-top: 30px !important;
+  padding-bottom: 30px !important;
+}
+
+/* line 1387, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/_variables.scss */
+.padding-xl {
+  padding-top: 40px !important;
+  padding-bottom: 40px !important;
+}
+
+/* line 1388, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/_variables.scss */
+.padding-xxl {
+  padding-top: 50px !important;
+  padding-bottom: 50px !important;
+}
+
+/* line 1390, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/_variables.scss */
+.margin-top-sml {
+  margin-top: 10px !important;
+}
+
+/* line 1391, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/_variables.scss */
+.margin-top-med {
+  margin-top: 20px !important;
+}
+
+/* line 1392, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/_variables.scss */
+.margin-top-lrg {
+  margin-top: 30px !important;
+}
+
+/* line 1393, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/_variables.scss */
+.margin-top-xl {
+  margin-top: 40px !important;
+}
+
+/* line 1394, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/_variables.scss */
+.margin-top-xxl {
+  margin-top: 50px !important;
+}
+
+/* line 1395, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/_variables.scss */
+.padding-top-sml {
+  padding-top: 10px !important;
+}
+
+/* line 1396, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/_variables.scss */
+.padding-top-med {
+  padding-top: 20px !important;
+}
+
+/* line 1397, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/_variables.scss */
+.padding-top-lrg {
+  padding-top: 30px !important;
+}
+
+/* line 1398, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/_variables.scss */
+.padding-top-xl {
+  padding-top: 40px !important;
+}
+
+/* line 1399, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/_variables.scss */
+.padding-top-xxl {
+  padding-top: 50px !important;
+}
+
+/* line 1401, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/_variables.scss */
+.margin-bot-sml {
+  margin-bottom: 10px !important;
+}
+
+/* line 1402, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/_variables.scss */
+.margin-bot-med {
+  margin-bottom: 20px !important;
+}
+
+/* line 1403, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/_variables.scss */
+.margin-bot-lrg {
+  margin-bottom: 30px !important;
+}
+
+/* line 1404, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/_variables.scss */
+.margin-bot-xl {
+  margin-bottom: 40px !important;
+}
+
+/* line 1405, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/_variables.scss */
+.margin-bot-xxl {
+  margin-bottom: 50px !important;
+}
+
+/* line 1406, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/_variables.scss */
+.padding-bot-sml {
+  padding-bottom: 10px !important;
+}
+
+/* line 1407, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/_variables.scss */
+.padding-bot-med {
+  padding-bottom: 20px !important;
+}
+
+/* line 1408, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/_variables.scss */
+.padding-bot-lrg {
+  padding-bottom: 30px !important;
+}
+
+/* line 1409, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/_variables.scss */
+.padding-bot-xl {
+  padding-bottom: 40px !important;
+}
+
+/* line 1410, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/_variables.scss */
+.padding-bot-xxl {
+  padding-bottom: 50px !important;
+}
+
+/* line 3, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_utilities.scss */
+.clearfix {
+  *zoom: 1;
+}
+/* line 11, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/_mixins.scss */
+.clearfix:before, .clearfix:after {
+  content: " ";
+  display: table;
+}
+/* line 12, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/_mixins.scss */
+.clearfix:after {
+  clear: both;
+}
+
+/* line 6, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_utilities.scss */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+}
+
+/* line 18, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_utilities.scss */
+.more-or-less-content {
+  height: 0;
+  overflow: hidden;
+}
+
+/* line 22, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_utilities.scss */
+.more-or-less-link {
+  font-weight: 400;
+}
+/* line 25, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_utilities.scss */
+.more-or-less-link:after {
+  content: "";
+  margin-left: 5px;
+  display: inline-block;
+  width: 0;
+  height: 0;
+  vertical-align: middle;
+  border-top: 4px solid #d30c55;
+  border-right: 4px solid transparent;
+  border-left: 4px solid transparent;
+}
+/* line 30, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_utilities.scss */
+.more-or-less-link.expanded:after {
+  transform: scaleY(-1);
+}
+
+/* line 37, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_utilities.scss */
+.xs-text-center {
+  text-align: center;
+}
+
+/* line 40, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_utilities.scss */
+.xs-text-right {
+  text-align: right;
+}
+
+/* line 43, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_utilities.scss */
+.xs-text-left {
+  text-align: left;
+}
+
+@media only screen and (min-width: 768px) {
+  /* line 47, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_utilities.scss */
+  .small-text-center {
+    text-align: center;
+  }
+
+  /* line 50, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_utilities.scss */
+  .small-text-right {
+    text-align: right;
+  }
+
+  /* line 53, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_utilities.scss */
+  .small-text-left {
+    text-align: left;
+  }
+}
+@media only screen and (min-width: 1180px) {
+  /* line 58, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_utilities.scss */
+  .medium-text-center {
+    text-align: center;
+  }
+
+  /* line 61, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_utilities.scss */
+  .medium-text-right {
+    text-align: right;
+  }
+
+  /* line 64, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_utilities.scss */
+  .medium-text-left {
+    text-align: left;
+  }
+}
+@media only screen and (min-width: 1280px) {
+  /* line 69, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_utilities.scss */
+  .large-text-center {
+    text-align: center;
+  }
+
+  /* line 72, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_utilities.scss */
+  .large-text-right {
+    text-align: right;
+  }
+
+  /* line 75, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_utilities.scss */
+  .large-text-left {
+    text-align: left;
+  }
+}
+/* line 1, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_custom_type.scss */
+h1, h2 {
+  font-weight: 100;
+}
+
+/* line 4, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_custom_type.scss */
+h1 {
+  line-height: 1.25em;
+}
+
+/* line 7, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_custom_type.scss */
+h2 {
+  line-height: 1.166667em;
+}
+
+/* line 10, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_custom_type.scss */
+h3 {
+  font-weight: 400;
+  line-height: 1.25em;
+  color: #7d726d;
+}
+
+/* line 15, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_custom_type.scss */
+h1.subheader {
+  font-size: 36px;
+  line-height: 1.333333em;
+}
+
+/* line 19, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_custom_type.scss */
+.full-width-underline {
+  border-bottom: 1px solid #d4d0ca;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+}
+
+/* line 27, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_custom_type.scss */
+h2 a,
+.full-width-underline a {
+  font-size: 16px;
+  margin-left: 0;
+  display: block;
+  font-family: "allumi-2-std", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+}
+@media only screen and (min-width: 768px) {
+  /* line 34, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_custom_type.scss */
+  h2 a,
+  .full-width-underline a {
+    margin-left: 1em;
+    display: inline;
+  }
+}
+
+/* line 42, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_custom_type.scss */
+ul li {
+  line-height: 1.666667em;
+  color: #554741;
+}
+
+/* line 49, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_custom_type.scss */
+ul.inline-list li a {
+  font-size: 0.777778em;
+  line-height: 1em;
+  color: #d30c55;
+  text-decoration: none;
+}
+/* line 55, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_custom_type.scss */
+ul.inline-list li a:hover {
+  color: #bb0b4b;
+}
+
+/* line 60, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_custom_type.scss */
+.sublink-list {
+  margin-left: 0;
+}
+/* line 63, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_custom_type.scss */
+.sublink-list li {
+  list-style: none;
+}
+/* line 66, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_custom_type.scss */
+.sublink-list a {
+  color: #a39d99;
+}
+/* line 69, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_custom_type.scss */
+.sublink-list a:hover {
+  color: #d30c55;
+}
+
+/* line 74, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_custom_type.scss */
+.sublink-list-border {
+  border-top: 1px solid #d4d0ca;
+  margin-top: 30px;
+  padding-top: 25px;
+}
+/* line 79, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_custom_type.scss */
+.sublink-list-border li {
+  list-style: none;
+}
+/* line 82, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_custom_type.scss */
+.sublink-list-border a {
+  color: #a39d99;
+}
+/* line 85, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_custom_type.scss */
+.sublink-list-border a:hover {
+  color: #d30c55;
+}
+
+/* line 90, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_custom_type.scss */
+.large-paragraph {
+  font-size: 18px;
+  line-height: 24px;
+}
+
+/* line 2, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_footer.scss */
+.footer {
+  padding: 0 0 35px;
+  color: #6e6259;
+}
+/* line 6, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_footer.scss */
+.footer h5 {
+  font-family: inherit;
+  color: #cbc4bc;
+  margin-bottom: 15px;
+  font-size: 14px;
+}
+/* line 14, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_footer.scss */
+.footer a {
+  color: #6e6259;
+  font-weight: 100;
+  font-size: 14px;
+}
+/* line 18, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_footer.scss */
+.footer a:hover {
+  color: #aca39a;
+}
+/* line 23, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_footer.scss */
+.footer .help-container {
+  background-color: #d4d0ca;
+  padding-top: 26px;
+  padding-bottom: 26px;
+  border-top: 1px solid #aca39a;
+  border-bottom: 1px solid #aca39a;
+}
+/* line 30, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_footer.scss */
+.footer .help-container a {
+  color: #6e6259;
+}
+/* line 33, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_footer.scss */
+.footer .help-container a span.font-icon-label {
+  font-size: 14px;
+  letter-spacing: 2px;
+  font-weight: 300;
+  vertical-align: text-bottom;
+}
+/* line 39, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_footer.scss */
+.footer .help-container a span.font-icon {
+  font-size: 24px;
+  vertical-align: middle;
+  padding-right: 0.416667em;
+}
+/* line 45, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_footer.scss */
+.footer .help-container a:hover {
+  color: #aca39a;
+}
+/* line 49, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_footer.scss */
+.footer .upper-footer {
+  margin: 30px auto 35px;
+  font-size: 14px;
+}
+/* line 53, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_footer.scss */
+.footer .lower-footer {
+  font-size: 13px;
+}
+/* line 58, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_footer.scss */
+.footer .about-links,
+.footer .legal-links,
+.footer .social-icon-links {
+  list-style: none;
+  margin: 0 0 30px;
+  padding: 0;
+}
+/* line 66, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_footer.scss */
+.footer .legal-links li a:after {
+  content: "|";
+  padding: 0 18px;
+}
+/* line 70, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_footer.scss */
+.footer .legal-links li:last-child a:after {
+  content: "";
+  padding: 0 0 0 18px;
+}
+/* line 76, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_footer.scss */
+.footer .about-links li {
+  margin: 0;
+  font-weight: lighter;
+}
+/* line 80, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_footer.scss */
+.footer .about-links li a {
+  display: block;
+  min-height: 40px;
+}
+/* line 89, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_footer.scss */
+.footer .social-icon-links > li {
+  display: inline-block;
+  vertical-align: middle;
+  text-align: center;
+}
+/* line 94, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_footer.scss */
+.footer .social-icon-links > li a {
+  padding-right: 10px;
+  display: block;
+  font-size: 0;
+  line-height: 0;
+  min-width: 35px;
+  height: 35px;
+  text-align: center;
+  color: #d4d0ca;
+}
+/* line 104, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_footer.scss */
+.footer .social-icon-links > li a .sprite-blog {
+  display: inline-block;
+  vertical-align: middle;
+  height: 26px;
+  background-image: url(../img/sprite.png);
+  background-image: url(../img/sprite.svg);
+  background-size: 400px 400px;
+  width: 26px;
+  background-position: -93px 0px;
+}
+/* line 256, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/_mixins.scss */
+.footer .social-icon-links > li a .sprite-blog:before {
+  content: "";
+  display: block;
+  height: 26px;
+  background-image: url(../img/sprite.png);
+  background-image: url(../img/sprite.svg);
+  background-size: 400px 400px;
+  opacity: 0;
+  -webkit-transition: opacity 250ms ease-in-out;
+  -moz-transition: opacity 250ms ease-in-out;
+  transition: opacity 250ms ease-in-out;
+}
+/* line 267, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/_mixins.scss */
+.footer .social-icon-links > li a .sprite-blog:hover:before {
+  opacity: 1;
+}
+/* line 319, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/_mixins.scss */
+.footer .social-icon-links > li a .sprite-blog:before {
+  width: 26px;
+  background-position: -93px -52px;
+}
+/* line 105, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_footer.scss */
+.footer .social-icon-links > li a .sprite-spiceworks {
+  display: inline-block;
+  vertical-align: middle;
+  height: 26px;
+  background-image: url(../img/sprite.png);
+  background-image: url(../img/sprite.svg);
+  background-size: 400px 400px;
+  width: 24px;
+  background-position: -119px 0px;
+}
+/* line 256, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/_mixins.scss */
+.footer .social-icon-links > li a .sprite-spiceworks:before {
+  content: "";
+  display: block;
+  height: 26px;
+  background-image: url(../img/sprite.png);
+  background-image: url(../img/sprite.svg);
+  background-size: 400px 400px;
+  opacity: 0;
+  -webkit-transition: opacity 250ms ease-in-out;
+  -moz-transition: opacity 250ms ease-in-out;
+  transition: opacity 250ms ease-in-out;
+}
+/* line 267, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/_mixins.scss */
+.footer .social-icon-links > li a .sprite-spiceworks:hover:before {
+  opacity: 1;
+}
+/* line 330, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/_mixins.scss */
+.footer .social-icon-links > li a .sprite-spiceworks:before {
+  width: 24px;
+  background-position: -119px -52px;
+}
+/* line 106, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_footer.scss */
+.footer .social-icon-links > li a .sprite-linkedin {
+  display: inline-block;
+  vertical-align: middle;
+  height: 26px;
+  background-image: url(../img/sprite.png);
+  background-image: url(../img/sprite.svg);
+  background-size: 400px 400px;
+  width: 27px;
+  background-position: -169px 0px;
+}
+/* line 256, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/_mixins.scss */
+.footer .social-icon-links > li a .sprite-linkedin:before {
+  content: "";
+  display: block;
+  height: 26px;
+  background-image: url(../img/sprite.png);
+  background-image: url(../img/sprite.svg);
+  background-size: 400px 400px;
+  opacity: 0;
+  -webkit-transition: opacity 250ms ease-in-out;
+  -moz-transition: opacity 250ms ease-in-out;
+  transition: opacity 250ms ease-in-out;
+}
+/* line 267, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/_mixins.scss */
+.footer .social-icon-links > li a .sprite-linkedin:hover:before {
+  opacity: 1;
+}
+/* line 352, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/_mixins.scss */
+.footer .social-icon-links > li a .sprite-linkedin:before {
+  width: 27px;
+  background-position: -169px -52px;
+}
+/* line 107, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_footer.scss */
+.footer .social-icon-links > li a .sprite-facebook {
+  display: inline-block;
+  vertical-align: middle;
+  height: 26px;
+  background-image: url(../img/sprite.png);
+  background-image: url(../img/sprite.svg);
+  background-size: 400px 400px;
+  width: 13px;
+  background-position: 0px 0px;
+}
+/* line 256, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/_mixins.scss */
+.footer .social-icon-links > li a .sprite-facebook:before {
+  content: "";
+  display: block;
+  height: 26px;
+  background-image: url(../img/sprite.png);
+  background-image: url(../img/sprite.svg);
+  background-size: 400px 400px;
+  opacity: 0;
+  -webkit-transition: opacity 250ms ease-in-out;
+  -moz-transition: opacity 250ms ease-in-out;
+  transition: opacity 250ms ease-in-out;
+}
+/* line 267, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/_mixins.scss */
+.footer .social-icon-links > li a .sprite-facebook:hover:before {
+  opacity: 1;
+}
+/* line 275, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/_mixins.scss */
+.footer .social-icon-links > li a .sprite-facebook:before {
+  width: 13px;
+  background-position: 0px -52px;
+}
+/* line 108, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_footer.scss */
+.footer .social-icon-links > li a .sprite-twitter {
+  display: inline-block;
+  vertical-align: middle;
+  height: 26px;
+  background-image: url(../img/sprite.png);
+  background-image: url(../img/sprite.svg);
+  background-size: 400px 400px;
+  width: 28px;
+  background-position: -13px 0px;
+}
+/* line 256, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/_mixins.scss */
+.footer .social-icon-links > li a .sprite-twitter:before {
+  content: "";
+  display: block;
+  height: 26px;
+  background-image: url(../img/sprite.png);
+  background-image: url(../img/sprite.svg);
+  background-size: 400px 400px;
+  opacity: 0;
+  -webkit-transition: opacity 250ms ease-in-out;
+  -moz-transition: opacity 250ms ease-in-out;
+  transition: opacity 250ms ease-in-out;
+}
+/* line 267, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/_mixins.scss */
+.footer .social-icon-links > li a .sprite-twitter:hover:before {
+  opacity: 1;
+}
+/* line 286, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/_mixins.scss */
+.footer .social-icon-links > li a .sprite-twitter:before {
+  width: 28px;
+  background-position: -13px -52px;
+}
+/* line 109, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_footer.scss */
+.footer .social-icon-links > li a .sprite-youtube {
+  display: inline-block;
+  vertical-align: middle;
+  height: 26px;
+  background-image: url(../img/sprite.png);
+  background-image: url(../img/sprite.svg);
+  background-size: 400px 400px;
+  width: 25px;
+  background-position: -41px 0px;
+}
+/* line 256, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/_mixins.scss */
+.footer .social-icon-links > li a .sprite-youtube:before {
+  content: "";
+  display: block;
+  height: 26px;
+  background-image: url(../img/sprite.png);
+  background-image: url(../img/sprite.svg);
+  background-size: 400px 400px;
+  opacity: 0;
+  -webkit-transition: opacity 250ms ease-in-out;
+  -moz-transition: opacity 250ms ease-in-out;
+  transition: opacity 250ms ease-in-out;
+}
+/* line 267, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/_mixins.scss */
+.footer .social-icon-links > li a .sprite-youtube:hover:before {
+  opacity: 1;
+}
+/* line 297, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/_mixins.scss */
+.footer .social-icon-links > li a .sprite-youtube:before {
+  width: 25px;
+  background-position: -41px -52px;
+}
+/* line 110, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_footer.scss */
+.footer .social-icon-links > li a .sprite-googleplus {
+  display: inline-block;
+  vertical-align: middle;
+  height: 26px;
+  background-image: url(../img/sprite.png);
+  background-image: url(../img/sprite.svg);
+  background-size: 400px 400px;
+  width: 27px;
+  background-position: -66px 0px;
+}
+/* line 256, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/_mixins.scss */
+.footer .social-icon-links > li a .sprite-googleplus:before {
+  content: "";
+  display: block;
+  height: 26px;
+  background-image: url(../img/sprite.png);
+  background-image: url(../img/sprite.svg);
+  background-size: 400px 400px;
+  opacity: 0;
+  -webkit-transition: opacity 250ms ease-in-out;
+  -moz-transition: opacity 250ms ease-in-out;
+  transition: opacity 250ms ease-in-out;
+}
+/* line 267, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/_mixins.scss */
+.footer .social-icon-links > li a .sprite-googleplus:hover:before {
+  opacity: 1;
+}
+/* line 308, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/_mixins.scss */
+.footer .social-icon-links > li a .sprite-googleplus:before {
+  width: 27px;
+  background-position: -66px -52px;
+}
+/* line 115, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_footer.scss */
+.footer .legal-links li {
+  display: inline;
+}
+/* line 119, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_footer.scss */
+.footer .copyright {
+  text-transform: uppercase;
+  font-weight: 100;
+  color: #554741;
+  letter-spacing: .1em;
+  display: block;
+}
+/* line 126, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_footer.scss */
+.footer .newsletter a {
+  color: #554741;
+  font-weight: 500;
+  letter-spacing: .1em;
+}
+/* line 131, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_footer.scss */
+.footer .newsletter a .sprite-email {
+  display: inline-block;
+  vertical-align: middle;
+  height: 26px;
+  background-image: url(../img/sprite.png);
+  background-image: url(../img/sprite.svg);
+  background-size: 400px 400px;
+  width: 26px;
+  background-position: -143px 0px;
+}
+/* line 256, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/_mixins.scss */
+.footer .newsletter a .sprite-email:before {
+  content: "";
+  display: block;
+  height: 26px;
+  background-image: url(../img/sprite.png);
+  background-image: url(../img/sprite.svg);
+  background-size: 400px 400px;
+  opacity: 0;
+  -webkit-transition: opacity 250ms ease-in-out;
+  -moz-transition: opacity 250ms ease-in-out;
+  transition: opacity 250ms ease-in-out;
+}
+/* line 267, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/_mixins.scss */
+.footer .newsletter a .sprite-email:hover:before {
+  opacity: 1;
+}
+/* line 341, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/_mixins.scss */
+.footer .newsletter a .sprite-email:before {
+  width: 26px;
+  background-position: -143px -52px;
+}
+/* line 134, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_footer.scss */
+.footer .newsletter a:hover .sprite-email:before {
+  opacity: 1;
+}
+/* line 137, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_footer.scss */
+.footer .ion-email:before {
+  color: #d4d0ca;
+  margin-right: 16px;
+  vertical-align: middle;
+  font-size: 38px;
+}
+
+@media only screen and (min-width: 768px) {
+  /* line 150, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_footer.scss */
+  .footer h5 {
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+  /* line 154, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_footer.scss */
+  .footer .upper-footer {
+    margin-bottom: 47px;
+  }
+  /* line 158, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_footer.scss */
+  .footer .legal-links > li a {
+    font-size: 13px;
+  }
+  /* line 162, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_footer.scss */
+  .footer .copyright {
+    font-size: 13px;
+  }
+  /* line 167, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_footer.scss */
+  .footer .social-icon-links > li a {
+    width: 40px;
+    height: 40px;
+    padding-right: 25px;
+  }
+}
+/* line 3, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_test.scss */
+.allumi-light,
+.allumi-normal,
+.allumi-bold {
+  font-family: "allumi-2-std", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+}
+
+/* line 8, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_test.scss */
+.allumi-light {
+  font-weight: 100;
+}
+
+/* line 11, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_test.scss */
+.allumi-normal {
+  font-weight: 400;
+}
+
+/* line 14, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_test.scss */
+.allumi-bold {
+  font-weight: 700;
+}
+
+/* line 17, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_test.scss */
+.allumi-900 {
+  font-weight: 900;
+}
+
+/* line 20, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_test.scss */
+.allumi-700 {
+  font-weight: 700;
+}
+
+/* line 23, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_test.scss */
+.allumi-500 {
+  font-weight: 500;
+}
+
+/* line 26, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_test.scss */
+.allumi-400 {
+  font-weight: 400;
+}
+
+/* line 29, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_test.scss */
+.allumi-300 {
+  font-weight: 300;
+}
+
+/* line 32, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_test.scss */
+.allumi-100 {
+  font-weight: 100;
+}
+
+/* line 35, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_test.scss */
+.klinic-light,
+.klinic-normal,
+.klinic-bold {
+  font-family: "klinic-slab", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+}
+
+/* line 40, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_test.scss */
+.klinic-light {
+  font-weight: 100;
+}
+
+/* line 43, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_test.scss */
+.klinic-normal {
+  font-weight: 400;
+}
+
+/* line 46, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_test.scss */
+.klinic-bold {
+  font-weight: 700;
+}
+
+/* line 49, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_test.scss */
+.test-size1 {
+  font-size: 14px;
+}
+
+/* line 52, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_test.scss */
+.test-size2 {
+  font-size: 18px;
+}
+
+/* line 55, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_test.scss */
+.test-size3 {
+  font-size: 24px;
+}
+
+/* line 58, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_test.scss */
+.test-size4 {
+  font-size: 36px;
+}
+
+/* line 61, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_test.scss */
+.test-size5 {
+  font-size: 48px;
+}
+
+/* line 65, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_test.scss */
+.lining-figures {
+  font-variant-numeric: lining-nums;
+  -moz-font-feature-settings: "lnum";
+  -ms-font-feature-settings: "lnum";
+  -webkit-font-feature-settings: "lnum";
+  font-feature-settings: "lnum";
+}
+
+/* line 69, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_test.scss */
+.oldstyle-figures {
+  font-variant-numeric: oldstyle-nums;
+  -moz-font-feature-settings: "onum";
+  -ms-font-feature-settings: "onum";
+  -webkit-font-feature-settings: "onum";
+  font-feature-settings: "onum";
+}
+
+/* line 76, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_test.scss */
+.visualize {
+  background-color: #57b5e6;
+}
+
+/* line 84, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_test.scss */
+.text-color-darkgray {
+  color: #554741;
+}
+
+/* line 87, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_test.scss */
+.bg-color-darkgray {
+  background-color: #554741;
+}
+
+/* line 90, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_test.scss */
+.text-color-crimson {
+  color: #d30c55;
+}
+
+/* line 93, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_test.scss */
+.bg-color-crimson {
+  background-color: #d30c55;
+}
+
+/* line 96, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_test.scss */
+.text-color-red {
+  color: #ed1944;
+}
+
+/* line 99, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_test.scss */
+.bg-color-red {
+  background-color: #ed1944;
+}
+
+/* line 102, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_test.scss */
+.text-color-magenta {
+  color: #d40e8c;
+}
+
+/* line 105, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_test.scss */
+.bg-color-magenta {
+  background-color: #d40e8c;
+}
+
+/* line 108, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_test.scss */
+.text-color-violet {
+  color: #b01c87;
+}
+
+/* line 111, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_test.scss */
+.bg-color-violet {
+  background-color: #b01c87;
+}
+
+/* line 117, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_test.scss */
+.text-color-mediumgray {
+  color: #7d726d;
+}
+
+/* line 120, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_test.scss */
+.bg-color-mediumgray {
+  background-color: #7d726d;
+}
+
+/* line 123, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_test.scss */
+.text-color-gray {
+  color: #a39d99;
+}
+
+/* line 126, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_test.scss */
+.bg-color-gray {
+  background-color: #a39d99;
+}
+
+/* line 129, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_test.scss */
+.text-color-lightgray {
+  color: #d4d0ca;
+}
+
+/* line 132, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_test.scss */
+.bg-color-lightgray {
+  background-color: #d4d0ca;
+}
+
+/* line 135, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_test.scss */
+.text-color-cyan {
+  color: #0098ba;
+}
+
+/* line 138, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_test.scss */
+.bg-color-cyan {
+  background-color: #0098ba;
+}
+
+/* line 141, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_test.scss */
+.text-color-blue {
+  color: #57b5e6;
+}
+
+/* line 144, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_test.scss */
+.bg-color-blue {
+  background-color: #57b5e6;
+}
+
+/* line 5, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_flag-icons.scss */
+[class^="flag-"] {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  vertical-align: middle;
+  background-image: url(../img/flag-sprite.png);
+  background-repeat: no-repeat;
+}
+
+/* line 13, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_flag-icons.scss */
+.flag-australia {
+  background-position: 0px 0px;
+}
+
+/* line 14, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_flag-icons.scss */
+.flag-austria {
+  background-position: -16px 0px;
+}
+
+/* line 15, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_flag-icons.scss */
+.flag-belgium {
+  background-position: -32px 0px;
+}
+
+/* line 16, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_flag-icons.scss */
+.flag-china {
+  background-position: -48px 0px;
+}
+
+/* line 17, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_flag-icons.scss */
+.flag-canada {
+  background-position: -64px 0px;
+}
+
+/* line 18, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_flag-icons.scss */
+.flag-czechrepublic {
+  background-position: -80px 0px;
+}
+
+/* line 19, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_flag-icons.scss */
+.flag-denmark {
+  background-position: -96px 0px;
+}
+
+/* line 20, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_flag-icons.scss */
+.flag-finland {
+  background-position: -112px 0px;
+}
+
+/* line 21, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_flag-icons.scss */
+.flag-france {
+  background-position: -128px 0px;
+}
+
+/* line 22, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_flag-icons.scss */
+.flag-germany {
+  background-position: -144px 0px;
+}
+
+/* line 23, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_flag-icons.scss */
+.flag-hongkong {
+  background-position: -160px 0px;
+}
+
+/* line 24, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_flag-icons.scss */
+.flag-hungary {
+  background-position: -176px 0px;
+}
+
+/* line 25, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_flag-icons.scss */
+.flag-ireland {
+  background-position: -192px 0px;
+}
+
+/* line 26, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_flag-icons.scss */
+.flag-italy {
+  background-position: -208px 0px;
+}
+
+/* line 27, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_flag-icons.scss */
+.flag-netherlands {
+  background-position: -224px 0px;
+}
+
+/* line 28, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_flag-icons.scss */
+.flag-newzealand {
+  background-position: -240px 0px;
+}
+
+/* line 29, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_flag-icons.scss */
+.flag-norway {
+  background-position: -256px 0px;
+}
+
+/* line 30, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_flag-icons.scss */
+.flag-poland {
+  background-position: -272px 0px;
+}
+
+/* line 31, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_flag-icons.scss */
+.flag-russia {
+  background-position: -288px 0px;
+}
+
+/* line 32, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_flag-icons.scss */
+.flag-singapore {
+  background-position: -304px 0px;
+}
+
+/* line 33, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_flag-icons.scss */
+.flag-spain {
+  background-position: -320px 0px;
+}
+
+/* line 34, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_flag-icons.scss */
+.flag-sweden {
+  background-position: -336px 0px;
+}
+
+/* line 35, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_flag-icons.scss */
+.flag-switzerland {
+  background-position: -352px 0px;
+}
+
+/* line 36, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_flag-icons.scss */
+.flag-unitedkingdom {
+  background-position: -368px 0px;
+}
+
+/* line 37, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_flag-icons.scss */
+.flag-unitedstates {
+  background-position: -384px 0px;
+}
+
+/* line 1, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_default_sub_nav.scss */
+.default-sub-nav-container {
+  position: relative;
+}
+/* line 3, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_default_sub_nav.scss */
+.default-sub-nav-container .default-sub-nav-toggle-container {
+  background-color: #0098ba;
+  color: #fff;
+  font-size: 20px;
+  line-height: 75px;
+  font-weight: 300;
+}
+/* line 9, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_default_sub_nav.scss */
+.default-sub-nav-container .default-sub-nav-toggle-container .column {
+  padding: 0;
+}
+/* line 12, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_default_sub_nav.scss */
+.default-sub-nav-container .default-sub-nav-toggle-container .sub-nav-toggle-button {
+  display: block;
+  color: white;
+  cursor: pointer;
+  overflow: hidden;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+/* line 19, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_default_sub_nav.scss */
+.default-sub-nav-container .default-sub-nav-toggle-container .sub-nav-toggle-button:focus {
+  outline: none;
+}
+/* line 23, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_default_sub_nav.scss */
+.default-sub-nav-container .default-sub-nav-toggle-container .sub-nav-toggle-button span {
+  -webkit-transition: all 300ms ease-in-out;
+  -moz-transition: all 300ms ease-in-out;
+  transition: all 300ms ease-in-out;
+}
+/* line 28, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_default_sub_nav.scss */
+.default-sub-nav-container .default-sub-nav-list-container {
+  -webkit-transition: all 300ms ease-in-out;
+  -moz-transition: all 300ms ease-in-out;
+  transition: all 300ms ease-in-out;
+  background-color: #0098ba;
+  max-height: 0;
+  overflow: hidden;
+  font-size: 20px;
+  line-height: 1.2;
+  font-family: "klinic-slab","Helvetica Neue","Helvetica",Helvetica,Arial,sans-serif;
+}
+/* line 36, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_default_sub_nav.scss */
+.default-sub-nav-container .default-sub-nav-list-container .column {
+  padding: 0;
+}
+/* line 39, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_default_sub_nav.scss */
+.default-sub-nav-container .default-sub-nav-list-container ul {
+  margin-bottom: 0;
+  margin-left: 0;
+}
+/* line 42, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_default_sub_nav.scss */
+.default-sub-nav-container .default-sub-nav-list-container ul li {
+  list-style-type: none;
+  display: block;
+}
+/* line 45, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_default_sub_nav.scss */
+.default-sub-nav-container .default-sub-nav-list-container ul li.current {
+  background-color: #0083a1;
+}
+/* line 48, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_default_sub_nav.scss */
+.default-sub-nav-container .default-sub-nav-list-container ul li a {
+  position: relative;
+  display: block;
+  z-index: 1;
+  width: 100%;
+  min-height: 40px;
+  height: 100%;
+  padding: 20px 10px 20px;
+  font-size: 20px;
+  line-height: 24px;
+  color: white;
+  border-top: 1px dotted #f6f6f2;
+}
+/* line 60, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_default_sub_nav.scss */
+.default-sub-nav-container .default-sub-nav-list-container ul li a:hover {
+  color: white;
+  background: #00add3;
+}
+/* line 69, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_default_sub_nav.scss */
+.default-sub-nav-container.open .sub-nav-toggle-button span {
+  transform: rotate(45deg);
+}
+/* line 72, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_default_sub_nav.scss */
+.default-sub-nav-container.open .default-sub-nav-list-container {
+  max-height: 1000px;
+}
+@media only screen and (min-width: 980px) {
+  /* line 78, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_default_sub_nav.scss */
+  .default-sub-nav-container .default-sub-nav-toggle-container {
+    position: absolute;
+    bottom: 100%;
+    left: 0;
+    right: 0;
+    background: transparent;
+  }
+  /* line 84, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_default_sub_nav.scss */
+  .default-sub-nav-container .default-sub-nav-toggle-container a.sub-nav-toggle-button {
+    font-family: "klinic-slab", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+    cursor: default;
+    color: #000;
+    font-size: 22px;
+    padding: 0 10px 12px;
+    line-height: 1;
+    margin: 0;
+  }
+}
+@media only screen and (min-width: 980px) and (min-width: 1280px) {
+  /* line 84, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_default_sub_nav.scss */
+  .default-sub-nav-container .default-sub-nav-toggle-container a.sub-nav-toggle-button {
+    padding: 0 0 12px;
+  }
+}
+@media only screen and (min-width: 980px) {
+  /* line 96, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_default_sub_nav.scss */
+  .default-sub-nav-container .default-sub-nav-toggle-container a.sub-nav-toggle-button span {
+    display: none;
+  }
+  /* line 101, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_default_sub_nav.scss */
+  .default-sub-nav-container .default-sub-nav-list-container {
+    max-height: none;
+    background-color: #f6f6f2;
+  }
+  /* line 107, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_default_sub_nav.scss */
+  .default-sub-nav-container .default-sub-nav-list-container ul li.current {
+    background-color: #d4d0ca;
+  }
+  /* line 110, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_default_sub_nav.scss */
+  .default-sub-nav-container .default-sub-nav-list-container ul li a {
+    font-size: 18px;
+    color: #000;
+    padding: 20px 10px 0;
+    border: 0;
+    min-height: 80px;
+  }
+  /* line 116, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_default_sub_nav.scss */
+  .default-sub-nav-container .default-sub-nav-list-container ul li a:hover {
+    color: white;
+  }
+  /* line 121, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_default_sub_nav.scss */
+  .default-sub-nav-container .default-sub-nav-list-container .table-list {
+    overflow: hidden;
+    height: 80px;
+    display: table;
+    position: relative;
+  }
+  /* line 126, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_default_sub_nav.scss */
+  .default-sub-nav-container .default-sub-nav-list-container .table-list.row {
+    display: block;
+  }
+  /* line 128, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_default_sub_nav.scss */
+  .default-sub-nav-container .default-sub-nav-list-container .table-list.row .column {
+    display: table;
+    min-height: 80px;
+    position: absolute;
+    top: 0;
+    /*@media only screen and (min-width: 768px){
+      &.table-list-current-page{
+        left: gridCalc(3, $total-columns);
+        &.first{
+          left:0;
+        }
+      }
+      &.table-list-left{
+        left:-(gridCalc(9, $total-columns));
+    
+      }
+      &.table-list-right{
+        left:gridCalc(9, $total-columns);
+      }
+    }
+    @media only screen and (min-width: 1180px){*/
+  }
+  /* line 150, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_default_sub_nav.scss */
+  .default-sub-nav-container .default-sub-nav-list-container .table-list.row .column.table-list-current-page {
+    left: 16.66667%;
+  }
+  /* line 152, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_default_sub_nav.scss */
+  .default-sub-nav-container .default-sub-nav-list-container .table-list.row .column.table-list-current-page.first {
+    left: 0;
+  }
+  /* line 156, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_default_sub_nav.scss */
+  .default-sub-nav-container .default-sub-nav-list-container .table-list.row .column.table-list-left {
+    left: -83.33333%;
+  }
+  /* line 160, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_default_sub_nav.scss */
+  .default-sub-nav-container .default-sub-nav-list-container .table-list.row .column.table-list-right {
+    left: 83.33333%;
+  }
+  /* line 168, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_default_sub_nav.scss */
+  .default-sub-nav-container .default-sub-nav-list-container .table-list.table-list-transitions-on .column {
+    -webkit-transition: all 300ms ease-in-out;
+    -moz-transition: all 300ms ease-in-out;
+    transition: all 300ms ease-in-out;
+  }
+  /* line 172, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_default_sub_nav.scss */
+  .default-sub-nav-container .default-sub-nav-list-container .table-list.table-list-has-more {
+    /*
+    @media only screen and (min-width: 768px){
+      .column{
+        @include grid-column(6, false, false, false, false, false, true, false);
+        &.last{
+          width:auto;
+          li{ width:auto;}
+        }
+        &.first{
+           @include grid-column(9, false, false, false, false, false, true, false);
+        }
+      }
+      ul li.table-list-more,
+      ul li.table-list-back{
+        @include grid-column(3, false, false, false, false, false, true, false);   
+      }
+    }
+    @media only screen and (min-width: 1180px){
+      */
+  }
+  /* line 173, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_default_sub_nav.scss */
+  .default-sub-nav-container .default-sub-nav-list-container .table-list.table-list-has-more .subnav_navigation {
+    position: relative;
+    display: block;
+    width: 100%;
+    height: 0;
+    overflow: visible;
+  }
+  /* line 179, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_default_sub_nav.scss */
+  .default-sub-nav-container .default-sub-nav-list-container .table-list.table-list-has-more .subnav_navigation li {
+    position: absolute;
+    top: 0;
+    height: 80px;
+    display: block;
+    z-index: 1;
+    background: #f6f6f2;
+  }
+  /* line 186, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_default_sub_nav.scss */
+  .default-sub-nav-container .default-sub-nav-list-container .table-list.table-list-has-more .subnav_navigation li.table-list-more {
+    right: 0;
+  }
+  /* line 190, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_default_sub_nav.scss */
+  .default-sub-nav-container .default-sub-nav-list-container .table-list.table-list-has-more .subnav_navigation li.table-list-back {
+    left: 0;
+  }
+  /* line 217, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_default_sub_nav.scss */
+  .default-sub-nav-container .default-sub-nav-list-container .table-list .column {
+    padding-left: 0;
+    padding-right: 0;
+    width: 66.66667%;
+  }
+  /* line 219, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_default_sub_nav.scss */
+  .default-sub-nav-container .default-sub-nav-list-container .table-list .column.first {
+    padding-left: 0;
+    padding-right: 0;
+    width: 83.33333%;
+  }
+  /* line 222, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_default_sub_nav.scss */
+  .default-sub-nav-container .default-sub-nav-list-container .table-list .column.last {
+    width: auto;
+  }
+  /* line 224, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_default_sub_nav.scss */
+  .default-sub-nav-container .default-sub-nav-list-container .table-list .column.last li {
+    width: auto;
+  }
+  /* line 227, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_default_sub_nav.scss */
+  .default-sub-nav-container .default-sub-nav-list-container .table-list .column.first.last ul li a {
+    padding-right: 20px;
+  }
+  /* line 230, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_default_sub_nav.scss */
+  .default-sub-nav-container .default-sub-nav-list-container .table-list .column.first.last.full-width {
+    width: 100%;
+  }
+  /* line 232, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_default_sub_nav.scss */
+  .default-sub-nav-container .default-sub-nav-list-container .table-list .column.first.last.full-width ul li a {
+    padding-right: 10px;
+  }
+  /* line 239, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_default_sub_nav.scss */
+  .default-sub-nav-container .default-sub-nav-list-container .table-list ul li.table-list-more,
+  .default-sub-nav-container .default-sub-nav-list-container .table-list ul li.table-list-back {
+    padding-left: 0;
+    padding-right: 0;
+    width: 16.66667%;
+  }
+  /* line 247, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_default_sub_nav.scss */
+  .default-sub-nav-container .default-sub-nav-list-container .table-list ul {
+    display: table-row;
+    min-height: 80px;
+  }
+  /* line 250, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_default_sub_nav.scss */
+  .default-sub-nav-container .default-sub-nav-list-container .table-list ul li {
+    display: table-cell;
+    position: relative;
+    min-width: 50px;
+    min-height: 80px;
+    width: 1%;
+  }
+  /* line 257, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_default_sub_nav.scss */
+  .default-sub-nav-container .default-sub-nav-list-container .table-list ul li .colorbar {
+    -webkit-transition: all 300ms ease-in-out;
+    -moz-transition: all 300ms ease-in-out;
+    transition: all 300ms ease-in-out;
+    position: absolute;
+    max-height: 6px;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 1px;
+    background: #0098ba;
+  }
+  /* line 268, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_default_sub_nav.scss */
+  .default-sub-nav-container .default-sub-nav-list-container .table-list ul li:hover .colorbar {
+    max-height: 100%;
+  }
+  /* line 272, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_default_sub_nav.scss */
+  .default-sub-nav-container .default-sub-nav-list-container .table-list ul li:hover a {
+    background: transparent;
+    color: white;
+  }
+}
+
+/*
+.brown-callout-container{
+  background-color:$callout-bg-dark-brown;
+  .callout-overlay-left{
+    background-image:url(../img/solve-detail/left-brown-overlay.png);
+    background-repeat:no-repeat;
+    background-position:left center;
+    background-size: contain;
+    .callout-overlay-right{
+      background-image:none;
+      padding-top:85px;
+      padding-bottom:85px;
+      background-size: contain;
+    }
+  }
+}*/
+/* line 2, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_collaborate.scss */
+.collaborate h2 {
+  font-family: inherit;
+  font-weight: 200;
+  margin-bottom: 30px;
+}
+/* line 7, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_collaborate.scss */
+.collaborate .callout-inner {
+  background-image: url("../img/insight-logo-overlay.png");
+  background-position: 0 -220px;
+  background-repeat: no-repeat;
+  padding: 100px 0;
+}
+
+/* line 14, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_collaborate.scss */
+.collaborate .headline {
+  padding: 90px 0 0 87px;
+  font-size: 60px;
+  font-weight: lighter;
+}
+
+/* line 1, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_form-elements.scss */
+*::-webkit-input-placeholder {
+  color: #8c8279;
+  letter-spacing: .1em;
+}
+
+/* line 5, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_form-elements.scss */
+*:-moz-placeholder {
+  /* FF 4-18 */
+  color: #8c8279;
+  letter-spacing: .1em;
+  opacity: 1;
+}
+
+/* line 11, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_form-elements.scss */
+*::-moz-placeholder {
+  /* FF 19+ */
+  color: #8c8279;
+  letter-spacing: .1em;
+  opacity: 1;
+}
+
+/* line 17, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_form-elements.scss */
+*:-ms-input-placeholder {
+  /* IE 10+ */
+  color: #8c8279;
+  letter-spacing: .1em;
+}
+
+/* line 22, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_form-elements.scss */
+input[type="text"], input[type="password"], input[type="date"], input[type="datetime"], input[type="datetime-local"], input[type="month"], input[type="week"], input[type="email"], input[type="number"], input[type="search"], input[type="tel"], input[type="time"], input[type="url"], textarea {
+  margin-bottom: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+/* line 28, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_form-elements.scss */
+textarea {
+  min-height: 100px;
+}
+
+/* line 32, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_form-elements.scss */
+span.error, small.error, .error > small, .error small.error {
+  background: none repeat scroll 0 0 #b01c87;
+  position: relative;
+}
+
+/* line 36, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_form-elements.scss */
+input.error, textarea.error, .error input, .error textarea, .error select, .parsley-error {
+  background: #fff;
+  border: 2px solid #b01c87;
+  color: #b01c87;
+  margin-bottom: 0;
+}
+/* line 42, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_form-elements.scss */
+input.error:focus, textarea.error:focus, .error input:focus, .error textarea:focus, .error select:focus, .parsley-error:focus {
+  border-color: #0098ba;
+}
+
+/* line 46, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_form-elements.scss */
+form.custom .custom.radio {
+  width: 19px;
+  height: 19px;
+  -webkit-border-radius: 10px 9px 9px 10px/9px 9px 10px 10px;
+  -moz-border-radius: 10px 9px 9px 10px/9px 9px 10px 10px;
+  border-radius: 10px 9px 9px 10px/9px 9px 10px 10px;
+  background-color: #fff;
+  border: solid 1px #cfcdce;
+}
+
+/* line 55, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_form-elements.scss */
+form.custom .custom.radio.checked:before {
+  width: 11px;
+  height: 11px;
+  -webkit-border-radius: 6px 5px 5px 6px/6px 6px 5px 5px;
+  -moz-border-radius: 6px 5px 5px 6px/6px 6px 5px 5px;
+  border-radius: 6px 5px 5px 6px/6px 6px 5px 5px;
+  background-color: #0098ba;
+}
+
+/* line 63, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_form-elements.scss */
+label {
+  color: #4d4d4d;
+}
+
+/* line 66, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_form-elements.scss */
+.number-picker {
+  position: relative;
+}
+/* line 68, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_form-elements.scss */
+.number-picker input {
+  margin-bottom: 0;
+  text-align: center;
+  text-indent: -25%;
+  padding-right: 0;
+  padding-left: 10px;
+}
+/* line 75, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_form-elements.scss */
+.number-picker button {
+  width: 25%;
+  position: absolute;
+  right: 0;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+  color: #d4d0ca;
+  background-color: #a39d99;
+}
+/* line 84, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_form-elements.scss */
+.number-picker button.number-picker-up {
+  top: 0;
+  bottom: 50%;
+}
+/* line 88, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_form-elements.scss */
+.number-picker button.number-picker-down {
+  bottom: 0;
+  top: 50%;
+}
+/* line 92, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_form-elements.scss */
+.number-picker button:focus {
+  background-color: #a39d99;
+}
+/* line 95, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_form-elements.scss */
+.number-picker button:hover {
+  background-color: #554741;
+}
+/* line 98, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_form-elements.scss */
+.number-picker button:active {
+  background-color: #2f2b27;
+}
+
+/* line 1, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_button.scss */
+button, .button {
+  background-color: #d30c55;
+  box-shadow: none;
+  border-color: transparent;
+  letter-spacing: .1em;
+  font-weight: 400;
+  outline: 0;
+}
+/* line 9, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_button.scss */
+button:hover, button:focus, .button:hover, .button:focus {
+  background-color: #a30942;
+}
+
+/* line 14, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_button.scss */
+button.primary, .button.primary {
+  box-shadow: none;
+}
+
+/* line 17, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_button.scss */
+button.secondary, .button.secondary {
+  background-color: #fff;
+  color: #d30c55;
+  border-color: #7d726d;
+}
+/* line 22, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_button.scss */
+button.secondary:hover, button.secondary:focus, .button.secondary:hover, .button.secondary:focus {
+  color: #fff;
+  background-color: #7d726d;
+}
+
+/* line 28, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_button.scss */
+button.tertiary, .button.tertiary {
+  color: #d30c55;
+  background-color: #fff;
+}
+/* line 32, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_button.scss */
+button.tertiary:hover, button.tertiary:focus, .button.tertiary:hover, .button.tertiary:focus {
+  background-color: #fde1eb;
+}
+
+/* line 37, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_button.scss */
+button.more, .button.more {
+  color: #554741;
+  background-color: #d4d0ca;
+}
+/* line 41, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_button.scss */
+button.more:hover, button.more:focus, .button.more:hover, .button.more:focus {
+  background-color: #bdb7ae;
+}
+
+/* line 46, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_button.scss */
+button.call-to-action, .button.call-to-action {
+  background-color: #554741;
+}
+/* line 49, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_button.scss */
+button.call-to-action:hover, .button.call-to-action:hover {
+  background-color: #7d726d;
+}
+
+/* line 53, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_button.scss */
+button.disabled, button[disabled], .button.disabled, .button[disabled] {
+  background-color: #d4d0ca;
+  border-color: transparent;
+}
+/* line 57, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_button.scss */
+button.disabled:hover, button.disabled:focus, button[disabled]:hover, button[disabled]:focus, .button.disabled:hover, .button.disabled:focus, .button[disabled]:hover, .button[disabled]:focus {
+  background-color: #d4d0ca;
+}
+
+/* line 62, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_button.scss */
+button.small, .button.small {
+  font-size: 14px;
+}
+
+/* line 65, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_button.scss */
+button.block-button, .button.block-button {
+  display: block;
+  padding-right: 5px;
+  padding-left: 5px;
+  text-align: center;
+}
+
+/* line 71, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_button.scss */
+.more-link {
+  font-weight: 400;
+  letter-spacing: .1em;
+}
+
+/* line 75, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_button.scss */
+button.compare-reload, .button.compare-reload {
+  background-color: #57b5e6;
+}
+/* line 78, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_button.scss */
+button.compare-reload:hover, button.compare-reload:focus, .button.compare-reload:hover, .button.compare-reload:focus {
+  background-color: #2ba1df;
+}
+
+/* line 83, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_button.scss */
+.contact-strip-inline {
+  background-color: #d4d0ca;
+  color: #554741;
+  padding: 15px;
+}
+/* line 88, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_button.scss */
+.contact-strip-inline .contact-strip-inner {
+  display: block;
+  padding: 16px;
+}
+/* line 92, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_button.scss */
+.contact-strip-inline .text {
+  padding-top: 21px;
+  padding-bottom: 20px;
+}
+/* line 96, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_button.scss */
+.contact-strip-inline .phone {
+  color: #554741;
+  text-decoration: none;
+  padding-left: 0;
+}
+/* line 101, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_button.scss */
+.contact-strip-inline .phone:hover {
+  color: #7d726d;
+}
+/* line 105, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_button.scss */
+.contact-strip-inline .button {
+  margin-bottom: 0;
+  background-color: #9A897C;
+}
+/* line 108, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_button.scss */
+.contact-strip-inline .button:hover {
+  background-color: #554741;
+}
+
+/* line 2, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_breadcrumbs.scss */
+.full-width-breadcrumbs-wrapper a.back-button {
+  display: inline-block;
+  padding: 9px 14px;
+  margin: 10px 0;
+  color: #7d726d;
+  font-size: 14px;
+  line-height: 21px;
+  float: left;
+  position: relative;
+  letter-spacing: 1px;
+}
+/* line 12, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_breadcrumbs.scss */
+.full-width-breadcrumbs-wrapper a.back-button:before {
+  content: '|';
+  position: absolute;
+  right: 0;
+  vertical-align: middle;
+  color: #7d726d;
+}
+/* line 19, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_breadcrumbs.scss */
+.full-width-breadcrumbs-wrapper a.back-button:hover {
+  text-decoration: underline;
+}
+/* line 23, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_breadcrumbs.scss */
+.full-width-breadcrumbs-wrapper .breadcrumbs {
+  background-color: transparent;
+}
+/* line 27, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_breadcrumbs.scss */
+.full-width-breadcrumbs-wrapper .callout h2 {
+  margin: 0 0 0 30px;
+  font-size: 30px;
+  font-weight: 100;
+  vertical-align: middle;
+  letter-spacing: 1px;
+}
+/* line 35, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_breadcrumbs.scss */
+.full-width-breadcrumbs-wrapper.fixed {
+  position: fixed;
+  display: none;
+  top: 46px;
+  left: 0;
+  right: 0;
+  background: #fff;
+  z-index: 999;
+  border-top: none;
+}
+/* line 44, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_breadcrumbs.scss */
+.full-width-breadcrumbs-wrapper.fixed .fixed-with-price {
+  display: inline-block;
+  float: right;
+}
+/* line 47, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_breadcrumbs.scss */
+.full-width-breadcrumbs-wrapper.fixed .fixed-with-price .cart-wrapper {
+  margin: 9px 0;
+}
+/* line 49, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_breadcrumbs.scss */
+.full-width-breadcrumbs-wrapper.fixed .fixed-with-price .cart-wrapper .prod-price {
+  display: inline-block;
+  font-size: 18px;
+  font-weight: 500;
+  margin: 0px 15px 0px 0px;
+}
+/* line 55, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_breadcrumbs.scss */
+.full-width-breadcrumbs-wrapper.fixed .fixed-with-price .cart-wrapper .add-to {
+  display: inline-block;
+  margin: 0;
+  padding: 11px 37px;
+  font-weight: bold;
+  font-size: 14px;
+  width: auto;
+}
+
+/* line 67, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_breadcrumbs.scss */
+.breadcrumbs {
+  display: none;
+  border: none;
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0;
+  border-bottom: 1px solid #ed1944;
+  background-color: #fff;
+  -moz-opacity: 0.90;
+  opacity: 0.90;
+  -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=90);
+  position: relative;
+  width: auto;
+  margin-top: 20px;
+  margin-bottom: 0;
+  padding: 9px 14px;
+  font-size: 16px;
+}
+/* line 84, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_breadcrumbs.scss */
+.breadcrumbs a {
+  color: #7d726d;
+  text-transform: capitalize;
+  letter-spacing: 1px;
+}
+/* line 91, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_breadcrumbs.scss */
+.breadcrumbs li:first-child {
+  padding-left: 10px;
+}
+/* line 94, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_breadcrumbs.scss */
+.breadcrumbs > * {
+  font-size: 14px;
+  line-height: 21px;
+}
+/* line 98, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_breadcrumbs.scss */
+.breadcrumbs > *:before {
+  margin: 0 12px;
+}
+/* line 102, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_breadcrumbs.scss */
+.breadcrumbs.full-width {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-bottom: none;
+}
+/* line 107, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_breadcrumbs.scss */
+.breadcrumbs.full-width li:before {
+  margin: 0 3.5px;
+}
+
+@media only screen and (min-width: 768px) {
+  /* line 116, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_breadcrumbs.scss */
+  .breadcrumbs {
+    display: inline-block;
+  }
+}
+@media only screen and (max-width: 979px) {
+  /* line 122, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_breadcrumbs.scss */
+  .full-width-breadcrumbs-wrapper.fixed {
+    top: 0;
+  }
+}
+@media only screen and (min-width: 1280px) {
+  /* line 131, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_breadcrumbs.scss */
+  .breadcrumbs li:first-child {
+    padding-left: 0;
+  }
+}
+/* code for animated blinking cursor */
+/* line 2, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_typed.scss */
+.typed-cursor {
+  -webkit-animation: blink 1.1s infinite;
+  -moz-animation: blink 1.1s infinite;
+  -ms-animation: blink 1.1s infinite;
+  -o-animation: blink 1.1s infinite;
+  animation: blink 1.1s infinite;
+  background-color: #d30c55;
+  color: transparent;
+  margin: 0 0 0 5px;
+  opacity: 1;
+  vertical-align: sub;
+  display: inline-block;
+  height: 45px;
+}
+
+/* line 16, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_typed.scss */
+#typed {
+  color: #554741;
+}
+
+@keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@-webkit-keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@-moz-keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@-ms-keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@-o-keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+/* line 2, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_dropdown.scss */
+.dropdown-grouping {
+  position: relative;
+}
+
+/* line 5, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_dropdown.scss */
+.dropdown.button:before {
+  content: "\f123";
+  font-family: "ionicons";
+  border: none;
+}
+
+/* line 10, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_dropdown.scss */
+.dropdown.button.search-dropdown-header {
+  padding-right: 2.5em;
+  padding-left: 16px;
+  padding-top: 21px;
+  padding-bottom: 20px;
+  color: #554741;
+  border: 1px solid transparent;
+  border-top-color: #fff;
+  border-bottom-color: #d4d0ca;
+  background-color: #fff;
+  background-image: -webkit-linear-gradient(top, #fff, #d4d0ca);
+  background-image: -moz-linear-gradient(top, #fff, #d4d0ca);
+  background-image: -o-linear-gradient(top, #fff, #d4d0ca);
+  background-image: -ms-linear-gradient(top, #fff, #d4d0ca);
+  background-image: linear-gradient(to bottom, #fff, #d4d0ca);
+  outline: none;
+  letter-spacing: 0;
+}
+/* line 29, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_dropdown.scss */
+.dropdown.button.search-dropdown-header:before {
+  color: #d30c55;
+  right: 30px;
+}
+/* line 33, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_dropdown.scss */
+.dropdown.button.search-dropdown-header.open, .dropdown.button.search-dropdown-header:focus {
+  background-color: #fff;
+  background-image: none !important;
+  border: 1px solid #ccc;
+  border-bottom-color: transparent;
+}
+
+/* line 44, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_dropdown.scss */
+.dropdown.button.search-dropdown-mediumgray {
+  padding-right: 2.5em;
+  padding-left: 16px;
+  padding-top: 21px;
+  padding-bottom: 20px;
+  color: #fff;
+  border: none;
+  background-color: #7d726d;
+  outline: none;
+  letter-spacing: 0;
+}
+/* line 56, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_dropdown.scss */
+.dropdown.button.search-dropdown-mediumgray:before {
+  color: #554741;
+  right: 30px;
+}
+
+/* line 61, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_dropdown.scss */
+.f-dropdown {
+  max-width: none;
+  margin: 0;
+}
+
+/* line 66, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_dropdown.scss */
+.f-dropdown li a {
+  padding: 15px 16px;
+  min-height: 40px;
+}
+
+/* line 70, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_dropdown.scss */
+.dropdown.button.large:before {
+  right: 40px;
+  margin-top: -10px;
+}
+
+/* line 74, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_dropdown.scss */
+.dropdown.button.tiny:before {
+  right: 20px;
+  margin-top: -5px;
+}
+
+/* line 80, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_dropdown.scss */
+.dropdown.button.ips {
+  padding: 10px 50px 10px 15px;
+  text-align: left;
+}
+/* line 84, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_dropdown.scss */
+.dropdown.button.ips:before {
+  right: 30px;
+  color: #554741;
+  -webkit-transition: color 300ms ease-in-out;
+  -moz-transition: color 300ms ease-in-out;
+  transition: color 300ms ease-in-out;
+}
+/* line 90, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_dropdown.scss */
+.dropdown.button.ips:hover:before {
+  color: #7d726d;
+}
+
+/* line 1, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_label.scss */
+.label {
+  font-family: "allumi-2-std", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+}
+/* line 4, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_label.scss */
+.label.secondary {
+  background-color: #d4d0ca;
+  color: #7d726d;
+}
+
+/* line 2, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_section.scss */
+.section-container.tabs {
+  background: #d4d0ca;
+  border-top: 4px solid #0098ba;
+}
+
+/* line 6, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_section.scss */
+.section-container.tabs > section > .title,
+.section-container.tabs > .section > .title {
+  font-family: "klinic-slab", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  font-size: 1.4em;
+}
+
+/* line 17, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_section.scss */
+.section-container.tabs > section > .title:hover a,
+.section-container.tabs > .section > .title:hover a {
+  color: #fff;
+  transition: none;
+}
+
+/* line 1, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_global_hero.scss */
+.small-hero-heading-container {
+  font-size: 2 5px;
+  line-height: 81px;
+  color: #fff;
+  background-color: #d30c55;
+}
+
+/* line 7, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_global_hero.scss */
+.hero-image-container {
+  background-position-x: center;
+  background-position-y: 72%;
+  background-repeat: no-repeat;
+  border: none;
+  background-size: 0;
+  *zoom: 1;
+}
+/* line 11, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/_mixins.scss */
+.hero-image-container:before, .hero-image-container:after {
+  content: " ";
+  display: table;
+}
+/* line 12, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/_mixins.scss */
+.hero-image-container:after {
+  clear: both;
+}
+/* line 16, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_global_hero.scss */
+.hero-image-container .hero-image {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -99999;
+  width: 100%;
+}
+/* line 23, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_global_hero.scss */
+.hero-image-container .hero-callout-container {
+  text-align: center;
+  margin-top: 25px;
+  margin-bottom: 10px;
+}
+/* line 30, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_global_hero.scss */
+.hero-image-container.manage-hero-image .hero-callout-container h1 {
+  margin: 0 0 15px;
+  font-size: 52px;
+}
+/* line 35, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_global_hero.scss */
+.hero-image-container.manage-hero-image .hero-callout-container ul li {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #ccc;
+}
+/* line 39, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_global_hero.scss */
+.hero-image-container.manage-hero-image .hero-callout-container ul li h3 {
+  font-size: 22px;
+  font-family: "allumi-2-std", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  color: #554741;
+  margin: 0 0 4px;
+}
+/* line 45, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_global_hero.scss */
+.hero-image-container.manage-hero-image .hero-callout-container ul li p {
+  font-size: 16px;
+  color: #6e6259;
+  margin: 0 0 4px;
+}
+/* line 52, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_global_hero.scss */
+.hero-image-container.manage-hero-image .hero-callout-container .manage-hero-cta {
+  font-size: 13px;
+  font-weight: 300;
+}
+
+/* line 62, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_global_hero.scss */
+.small-hero-callout-container h1 {
+  margin-top: 25px;
+  margin-bottom: 10px;
+}
+/* line 66, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_global_hero.scss */
+.small-hero-callout-container a {
+  font-weight: 300;
+  display: block;
+  margin-bottom: 10px;
+}
+
+/* line 73, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_global_hero.scss */
+.hero-container-underline {
+  border-bottom: 1px solid #ccc;
+}
+
+@media only screen and (min-width: 768px) {
+  /* line 82, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_global_hero.scss */
+  .hero-image-container {
+    background-size: cover;
+    background-position: left center;
+    min-height: 504px;
+  }
+  /* line 86, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_global_hero.scss */
+  .hero-image-container p {
+    font-size: 18px;
+    line-height: 1.8;
+    font-weight: 300;
+  }
+  /* line 91, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_global_hero.scss */
+  .hero-image-container .hero-callout-container {
+    margin-top: 110px;
+    margin-bottom: 0;
+    text-align: left;
+    font-size: 18px;
+  }
+  /* line 97, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_global_hero.scss */
+  .hero-image-container .hero-callout-container img {
+    margin-bottom: 16px;
+  }
+
+  /* line 101, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_global_hero.scss */
+  .hero-image-container.short-hero-image {
+    min-height: 270px;
+  }
+  /* line 104, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_global_hero.scss */
+  .hero-image-container.short-hero-image .hero-callout-container {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  /* line 108, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_global_hero.scss */
+  .hero-image-container.short-hero-image img.partner-hero-logo {
+    margin-top: 25px;
+  }
+
+  /* line 114, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_global_hero.scss */
+  .small-hero-callout-container a {
+    margin-bottom: 10px;
+  }
+
+  /* line 120, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_global_hero.scss */
+  .solutions-container .solutions-inner-wrapper {
+    border-top: none;
+  }
+
+  /* line 124, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_global_hero.scss */
+  .hero-image-container.manage-hero-image {
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+  }
+  /* line 127, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_global_hero.scss */
+  .hero-image-container.manage-hero-image .hero-callout-container {
+    margin: 25px 0;
+  }
+  /* line 130, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_global_hero.scss */
+  .hero-image-container.manage-hero-image .hero-callout-container h1 {
+    margin-bottom: 15px;
+  }
+  /* line 133, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_global_hero.scss */
+  .hero-image-container.manage-hero-image .hero-callout-container .manage-hero-cta {
+    position: absolute;
+    right: 0;
+    bottom: 70px;
+    text-align: center;
+  }
+  /* line 140, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_global_hero.scss */
+  .hero-image-container.manage-hero-image .hero-callout-container ul li:last-child {
+    border: none;
+  }
+}
+@media only screen and (min-width: 1180px) {
+  /* line 149, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_global_hero.scss */
+  .hero-image-container .hero-callout-container {
+    margin-bottom: 40px;
+  }
+}
+/* line 1, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_homepage.scss */
+.home-outer-row-container {
+  padding-top: 40px;
+  padding-bottom: 30px;
+  background-color: #fff;
+}
+/* line 6, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_homepage.scss */
+.home-outer-row-container > .row {
+  max-width: 1240px;
+}
+
+/* line 10, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_homepage.scss */
+.home-inner-column-container {
+  margin-bottom: 50px;
+}
+/* line 13, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_homepage.scss */
+.home-inner-column-container h2 {
+  margin-bottom: 0;
+  font-size: 36px;
+}
+/* line 17, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_homepage.scss */
+.home-inner-column-container p {
+  margin-bottom: 35px;
+  font-size: 14px;
+}
+/* line 21, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_homepage.scss */
+.home-inner-column-container p.lead {
+  font-size: 18px;
+}
+/* line 24, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_homepage.scss */
+.home-inner-column-container .caret {
+  display: inline-block;
+  width: 0;
+  height: 0;
+  vertical-align: middle;
+  border-top: 4px solid #d30c55;
+  border-right: 4px solid transparent;
+  border-left: 4px solid transparent;
+}
+/* line 27, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_homepage.scss */
+.home-inner-column-container ul {
+  margin-top: 20px;
+  font-size: 14px;
+  letter-spacing: .1em;
+  font-weight: 400;
+}
+/* line 33, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_homepage.scss */
+.home-inner-column-container ul li {
+  display: block;
+  line-height: 28px;
+  margin-bottom: 0;
+}
+/* line 37, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_homepage.scss */
+.home-inner-column-container ul li a {
+  display: block;
+  height: 40px;
+}
+
+/* line 44, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_homepage.scss */
+.home-search-container {
+  position: relative;
+  max-width: 100%;
+  height: 50px;
+  margin-top: 320px;
+  background: rgba(255, 255, 255, 0.8);
+  border: 1px solid #554741;
+}
+
+/* line 52, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_homepage.scss */
+#home-search-submit {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: block;
+  width: 50px;
+  height: 50px;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  background-color: transparent;
+  border: 0;
+  color: #554741;
+}
+/* line 66, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_homepage.scss */
+#home-search-submit .ion-search:before {
+  font-size: 28px;
+}
+
+/* line 70, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_homepage.scss */
+#home-search-input {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: block;
+  -webkit-appearance: none;
+  -webkit-border-radius: 0;
+  border-radius: 0;
+  background-color: transparent;
+  font-family: "allumi-2-std", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  border: 0;
+  color: #554741;
+  display: block;
+  font-size: 14px;
+  margin: 0;
+  padding: 15px 15px 15px 50px;
+  height: 50px;
+  width: 100%;
+  line-height: 1.1;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+/* line 93, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_homepage.scss */
+.hero-container {
+  position: relative;
+}
+/* line 96, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_homepage.scss */
+.hero-container.video-background {
+  height: 450px;
+}
+/* line 99, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_homepage.scss */
+.hero-container.video-background > .video-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+  background-color: transparent;
+}
+/* line 110, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_homepage.scss */
+.hero-container.video-background video {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  width: 1200px;
+  height: 675px;
+  margin-left: -600px;
+  background-color: #fff;
+  z-index: -1;
+}
+/* line 123, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_homepage.scss */
+.hero-container.video-background video::-webkit-media-controls {
+  display: none !important;
+}
+
+/* line 128, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_homepage.scss */
+.home-logo {
+  display: none;
+}
+/* line 131, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_homepage.scss */
+.home-logo img {
+  max-width: 300px;
+}
+
+/* line 135, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_homepage.scss */
+.type-animation {
+  display: none;
+  white-space: nowrap;
+}
+
+@media only screen and (min-width: 980px) {
+  /* line 143, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_homepage.scss */
+  .home-logo {
+    display: block;
+  }
+}
+@media only screen and (min-width: 768px) and (min-height: 600px) {
+  /* line 150, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_homepage.scss */
+  .home-inner-column-container {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  /* line 155, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_homepage.scss */
+  .hero-container.video-background {
+    height: 430px;
+  }
+  /* line 158, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_homepage.scss */
+  .hero-container.video-background video {
+    width: 1200px;
+    height: 675px;
+    margin-left: -600px;
+  }
+
+  /* line 164, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_homepage.scss */
+  .home-logo {
+    margin-top: 78px;
+  }
+
+  /* line 167, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_homepage.scss */
+  .type-animation {
+    display: block;
+    margin-top: 136px;
+  }
+
+  /* line 171, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_homepage.scss */
+  .home-search-container {
+    max-width: 300px;
+    margin-top: 5px;
+  }
+}
+@media only screen and (min-width: 1180px) and (min-height: 800px) {
+  /* line 179, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_homepage.scss */
+  .home-inner-column-container ul {
+    margin-top: 30px;
+  }
+  /* line 182, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_homepage.scss */
+  .home-inner-column-container ul li a {
+    height: 30px;
+  }
+
+  /* line 188, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_homepage.scss */
+  .hero-container.video-background {
+    height: 520px;
+  }
+  /* line 191, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_homepage.scss */
+  .hero-container.video-background video {
+    width: 1440px;
+    height: 810px;
+    margin-left: -720px;
+  }
+
+  /* line 197, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_homepage.scss */
+  .home-logo {
+    margin-top: 90px;
+  }
+
+  /* line 200, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_homepage.scss */
+  .type-animation {
+    margin-top: 160px;
+  }
+}
+/* line 1, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_home_page_hero.scss */
+div.home-hero-container {
+  position: relative;
+}
+/* line 5, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_home_page_hero.scss */
+div.home-hero-container img.hero-image {
+  width: 100%;
+}
+/* line 9, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_home_page_hero.scss */
+div.home-hero-container div.headlines-container {
+  color: #fff;
+  font-family: "klinic-slab", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  padding: 3%;
+  position: absolute;
+  bottom: 10%;
+}
+/* line 16, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_home_page_hero.scss */
+div.home-hero-container div.headlines-container div.headlines-title {
+  font-size: 3.75em;
+  line-height: 1.2em;
+  font-weight: 300;
+  margin: 8% 0 3% 0;
+}
+/* line 23, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_home_page_hero.scss */
+div.home-hero-container div.headlines-container p.headlines-content {
+  margin: 0 0 1% 0;
+}
+
+/* line 1, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_home_page_form.scss */
+div.form-side-bar-wrapper {
+  background-color: #f1f1f0;
+  padding: 1.875em 1.25em 0 1.25em;
+}
+/* line 4, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_home_page_form.scss */
+div.form-side-bar-wrapper p.form-side-bar-content {
+  font-size: 1.5em;
+  line-height: 1.24em;
+}
+
+/* line 9, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_home_page_form.scss */
+div.error-arrow-up {
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 0 10px 10px 10px;
+  border-color: transparent transparent #af1686 transparent;
+  line-height: 0px;
+  _border-color: #000000 #000000 #af1686 #000000;
+  _filter: progid:DXImageTransform.Microsoft.Chroma(color='#000000');
+  border-style: inset;
+  -webkit-transform: rotate(360deg);
+  position: absolute;
+  top: -10px;
+  left: 60px;
+}
+
+/* line 24, /Users/yu-chentai/Sites/insight-front-end/_build/_scss/custom/_home_page_form.scss */
+input.parsley-error {
+  margin-bottom: 0;
+}
